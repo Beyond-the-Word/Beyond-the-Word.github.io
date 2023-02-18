@@ -93,3 +93,7 @@ ignore:
 
 # 主题配置
 theme: one-paper
+
+# SEO 配置
+sitemap:
+    path: sitemap.xml

@@ -1,9 +1,9 @@
 # Site
 title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+subtitle: 'Hexo Subtitle'
+description: 'Hexo Description'
+keywords: Technical
+author: Beyond The World Group
 language: zh-CN
 timezone: 'Asia/Shanghai'
 

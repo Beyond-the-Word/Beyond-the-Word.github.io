@@ -1,5 +1,4 @@
 <div class="post-main">
-
     <% if (is_post()) { %>
     
         <div class="post-main-title">
@@ -20,4 +19,20 @@
 
     <% } %>
 
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <div id="gitalk-container"></div>
+    <script>
+    var gitalk = new Gitalk({
+      clientID: 'c4d6d974329e62cdda41',
+      clientSecret: '0a1f71bd01349421ccbd050d43631846a5a6dc29',
+      repo: 'beyond-the-word.github.io',
+      owner: 'beyond-the-word',
+      admin: ['MikeyWei','bestony'],
+      id: location.pathname,      
+      distractionFreeMode: false  
+    })
+
+    gitalk.render('gitalk-container')
+    </script>
 </div>

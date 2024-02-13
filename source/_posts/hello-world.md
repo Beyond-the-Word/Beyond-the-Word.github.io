@@ -1,38 +1,16 @@
 ---
-title: Hello World
+title: 一种 Trade-off：有用 VS. 有意义
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+价值判断是非常私人的事，所以不去 Judge 别人的选择非常重要。所谓清谈、臧否人物，不过是规则之外的望族试图话事的一种下意识动作。
 
-## Quick Start
+### 谁是劣币？
 
-### Create a new post
+龙年春节前，老王发了一条令人唏嘘的公告《[“Linux 中国” 开源社区，停止运营](https://linux.cn/article-16602-1.html)》。恰好前阵子看到学者萧瀚的一条[推文](https://twitter.com/_xiaohan/status/1745657306090750203)：“前几天跟一个同龄的朋友聊天，他以前曾是传媒领域的一流大佬，办一个媒体红一个媒体，而且红得很正很实，是个让人肃然起敬的媒体人。后来，他及其媒体几经大锤，改做小众得多且公共性也弱许多的媒体，且每况愈下，但他仿佛依然云淡风轻。我问他如何做到如此安之若素。他说，如果你的目标仅仅只是做好一个媒体，那受到这样的摧残自然会难以承受，但如果你的目标不仅仅是做个好媒体，还有高于这个目标的某种责任感，就不至于对这些遭遇过于在意。”略有感触。
 
-``` bash
-$ hexo new "My New Post"
-```
+诚如这位老媒体人所言，如果你做一件事的目标是有所得（名利之类），那么必然会为之所累。如果你的目标超越了过程中作为附属物的“有所得”，那么的确不会被左右。换句话说，良币的目标是为了击败或者说消灭劣币吗？做事之前认真思考并回答这个问题就变得重要起来。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### 我能做什么？
 
-### Run server
+拜托小白搭建这个页面一年多了，倏忽竟一个字都没码出来。起初，只是想把上一份工作中的一件还不错的事延续下去，但一想到种种“不值得”就屡屡叹气，终未能码一字。
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+也许龙年开始，我得做点什么。
